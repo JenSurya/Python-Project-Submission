@@ -58,7 +58,3 @@ This module fetches and caches movie genres from the TMDB API:
 ## API Key
 
 In this project, we used the TMDB API to fetch movie data. Ensure you have a valid API key and replace the placeholder in the code with your actual API key.
-
-## License
-
-This project is licensed under the MIT License.
